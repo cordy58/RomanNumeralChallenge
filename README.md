@@ -1,3 +1,2 @@
 # RomanNumeralChallenge
 Roman Numeral Challenge for programming job
-<p>Was given a 4 hour time limit, but I ended up taking 5 hours. About 3 hours in I decided to rework a lot of my previous code because I discovered a better way to do the conversion between roman numerals and modern. I left the original code in the RomanNumeral.h file so my original thought process can be seen but it's all commented out. Numeral.h is the header for the class with the working code. It's basically RomanNumeral.h 2.0. I'm proud of the program. It's simple, but really hard to break. It only converts roman to modern, not vice versa.</p>
